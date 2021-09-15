@@ -1,0 +1,23 @@
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csproj.CoreCompileInputs.cache
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csprojAssemblyReference.cache
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.pdb
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csprojAssemblyReference.cache
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.pdb
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.pdb
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\bin\Debug\ISET2018_CouClasses.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csprojAssemblyReference.cache
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.csproj.CoreCompileInputs.cache
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouClasses\ISET2018_CouClasses\obj\Debug\ISET2018_CouClasses.pdb

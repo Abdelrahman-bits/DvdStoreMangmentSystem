@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\Couche Class\Couche Class\obj\Debug\Couche Class.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\Couche Class\Couche Class\obj\Debug\Couche Class.csproj.CoreCompileInputs.cache

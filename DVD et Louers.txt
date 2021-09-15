@@ -1,0 +1,41 @@
+-------------------------------------DVDs Et Louers--------------------------------------
+                ======================================================================================================                      
+CLient Numero1 : 
+Customer PreNom: Abdelrahman Cust Nom: HAZEM
+Customer Adresse: rue du centenaire  4032
+Customer Email: abdelrahmanhazem27@gmail.com
+Customer Pass: abdo11
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+1               6/15/2021 12:00:00 AM     Passed        +10$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+3               7/3/2021 12:00:00 AM     Passed        +10$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+2               7/9/2021 12:00:00 AM     Passed        +10$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+2               7/9/2021 12:00:00 AM     Passed        +10$
+                ======================================================================================================                      
+CLient Numero2 : 
+Customer PreNom: Patrick Cust Nom: Alexandre
+Customer Adresse: Rue de londres  4030
+Customer Email: Patrick.ALEXANDRE@hel.be
+Customer Pass: Patrick11
+                ======================================================================================================                      
+CLient Numero3 : 
+Customer PreNom: Anne Cust Nom: Comhaire
+Customer Adresse: Rue sohet  4000
+Customer Email: AnneLise.COMHAIRE@hel.be
+Customer Pass: Anne11
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+6               6/3/2021 12:00:00 AM     Passed        +10$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+4               7/3/2021 12:00:00 AM     Passed        +10$
+                ======================================================================================================                      
+CLient Numero4 : 
+Customer PreNom: AbdelHakim Cust Nom: HEDIA
+Customer Adresse: rue du Londres  4000
+Customer Email: HEDIA@gmail.com
+Customer Pass: Hedia11
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+2               7/3/2021 12:00:00 AM     Passed        +10$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+1               7/5/2021 12:00:00 AM     Passed        +10$

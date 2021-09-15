@@ -1,0 +1,6 @@
+-------------------------------------Imprimer bordereau d'emprunt--------------------------------------
+CLient Numero4 : 
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+2               7/3/2021 12:00:00 AM     Not Passed        +0$
+DVD ID         Date Pour Retourner         DeadLine        Fines 
+1               7/5/2021 12:00:00 AM     Not Passed        +0$

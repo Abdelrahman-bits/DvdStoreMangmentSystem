@@ -1,0 +1,44 @@
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.dll
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.pdb
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csprojAssemblyReference.cache
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CoreCompileInputs.cache
+E:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CopyComplete
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.pdb
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.pdb
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.pdb
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csprojAssemblyReference.cache
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CopyComplete
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.dll
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.pdb
+F:\PatAlex\SWAN Formation C# .NET\Sources\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.pdb
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.pdb
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.pdb
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CopyComplete
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.dll
+C:\Users\DELL\Desktop\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouGestion.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouAcces.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\bin\Debug\ISET2018_CouClasses.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csprojAssemblyReference.cache
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CoreCompileInputs.cache
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.csproj.CopyComplete
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.dll
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\Les Couches\ISET2018_CouGestion\ISET2018_CouGestion\obj\Debug\ISET2018_CouGestion.pdb

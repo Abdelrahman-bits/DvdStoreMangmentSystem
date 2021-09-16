@@ -53,7 +53,6 @@ D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\bin\Debug
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\bin\Debug\ISET2018_CouClasses.pdb
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\bin\Debug\ISET2018_CouGestion.pdb
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\bin\Debug\ISET2018_CouAcces.pdb
-D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.csprojAssemblyReference.cache
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.FicConsulter.resources
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.FicMain.resources
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.LouerFIc.resources
@@ -64,3 +63,4 @@ D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.csproj.CopyComplete
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.exe
 D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.pdb
+D:\Bloc 2\2eme quadri\progra. m Alex\DVDStoreMangment\DVDStoreMangment\obj\Debug\DVDStoreMangment.csproj.AssemblyReference.cache

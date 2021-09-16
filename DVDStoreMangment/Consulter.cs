@@ -150,7 +150,7 @@ namespace DVDStoreMangment
         private void btnDvdConsultInStock_Click(object sender, EventArgs e)
         {
             // List<string> stringlist = new List<string>();
-            string stringlist = "<!DOCTYPE html><html><head> <meta charset ='utf-8'/><title> Le Stock </title> </head> <style>table, th, td {border: 1px solid black;border - collapse: collapse;}</style> <body> <h2 style = 'color:orange'> Notre Stock </h2> <table style = 'width:100%; background-color:#b8bafd'><tr><th> DVD ID </th><th> DVDs Present </th><th> Number In Stock</th></tr>";
+            string stringlist = "<!DOCTYPE html><html><head> <meta charset ='utf-8'/><title> The stock </title> </head> <style>table, th, td {border: 1px solid black;border - collapse: collapse;}</style> <body> <h2 style = 'color:orange'> Our Stock </h2> <table style = 'width:100%; background-color:#b8bafd'><tr><th> DVD ID </th><th> DVDs Present </th><th> Number In Stock</th></tr>";
 
             List<C_DVDs> ltmp = new G_DVDs(Sconnexion).Lire("");
             foreach (C_DVDs C in ltmp)
